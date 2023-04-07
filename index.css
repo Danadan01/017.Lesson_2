@@ -1,0 +1,10 @@
+.table-data-style {
+  border: 1px solid black;
+  width: 100px;
+  text-align: center;
+}
+
+.table-style {
+  margin-top: 10px;
+  border: 1px solid black;
+}
